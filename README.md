@@ -9,6 +9,11 @@
 --
 
 ---
+**[News]** 
+--
+- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
+
+---
 **[FAQ]**
 --
 - [`Wiki`](http://wiki.anime-sharing.com/hgames/index.php?title=Honey_Select)
