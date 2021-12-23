@@ -9,11 +9,6 @@
 --
 
 ---
-**[News]** 
---
-- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
-
----
 **[FAQ]**
 --
 - [`Wiki`](http://wiki.anime-sharing.com/hgames/index.php?title=Honey_Select)
@@ -35,7 +30,7 @@
 - [`Booru`](https://kenzato.uk/booru/)
 
 ---
-**[Female & Male Uncensor]**
+**[Female & Male Uncensor Mod ]**
 --
 - [`SBX2.5_Uncensor_v2.5e`](http://www.mediafire.com/file/0ymcbgap0zjbkz8/SBX2.5_-_Uncensor_v2.5e.rar/file)
 - [`HS_Uncensor2_v0.6.4`](http://www.mediafire.com/file/ffrk06occovpcko/HS_Uncensor2_v0.6.4.rar/file) [`Add-on`](http://www.mediafire.com/folder/t24wcole065z7/Uncensor2_Add-on)
@@ -75,7 +70,7 @@
 - [`HS_Facial_Retouch_Mod_v3c + (Standalone Version)`](http://www.mediafire.com/file/hsir9huhoezrott/HS_Facial_Retouch_Mod_v3c_%252B_%2528Standalone_Version%2529.rar/file)
 
 ---
- **[Recommended Plugins]**
+ **[Recommended Mod Plugins]**
 --
 - [`HS_GGMod_Neo_v1.6.1`](http://www.mediafire.com/file/koxwl5fbr6uzdsc/HS_GGMod_Neo_v1.6.1.rar/file)
 - [`HS_Wideslider_v0.8.3`](https://mega.nz/#!sYwz2QDL!Dq_ubHVMx31YJoWIv1Z6yXEZPGpbFFHT7V4cYugw96Y)
@@ -98,7 +93,7 @@
 - [`Image_Based_Lighting_ᴠ5.0.1`](https://joan6694.bitbucket.io/)
 
 ---
-**[Utility Plugins]**
+**[Utility Mod Plugins]**
 --
 - [`HS_StudioAddon_v1.1.0`](http://www.mediafire.com/file/q3qr5igapdd3i2s/HS_StudioAddon_v1.1.0.rar/file) 
 - [`HS_StudioNEOAddon_v0.9.2`](http://www.mediafire.com/file/1eb1x84tt6euy99/HS_StudioNEOAddon_v0.9.2.rar/file)
