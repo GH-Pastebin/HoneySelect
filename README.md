@@ -47,7 +47,7 @@
 --
 - [`IPA - Illusion Plugin Architecture_ᴠ3.4.1`](https://github.com/Eusth/IPA/releases)
 - [`HS_UI_Translation_AIO_01-05-20`](http://www.mediafire.com/file/319tgajv3agfhxg/UI_Translation_AIO_01-05-20.zip/file)
-- [`HS_English_Launcher_v3.0.0`](https://github.com/IllusionMods/IllusionLaunchers)
+- [`HS_English_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers)
 
 ---
  **[Mod Archive]**
