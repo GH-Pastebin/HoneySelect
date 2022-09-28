@@ -135,6 +135,6 @@
 - [`HS_Nodes_Constraints_ᴠ1.2.1`](https://joan6694.bitbucket.io/)
 - [`HS_Standard_ᴠ1.0.2`](https://www.patreon.com/posts/27837208)
 - [`HS_Bones_Framework_ᴠ1.3.0`](https://www.patreon.com/posts/34133586)
-- [`HS_VN_Game_Engine_ᴠ30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`HS_VN_Game_Engine_ᴠ39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`HS_Timeline_ᴠ1.1.0`](https://www.patreon.com/posts/37188531)
 - [`HS_Better_Scene_Loader_ᴠ1.3.0`](https://github.com/HijackHornet/HSPlugins/releases)
