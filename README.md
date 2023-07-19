@@ -1,7 +1,7 @@
 (ハニーセレクト) - HoneySelect
 --
 
-![Logo](https://i.imgur.com/SuY1mJJ.png")
+![Logo](https://i.imgur.com/SuY1mJJ.png") 
 --
 
 ---
